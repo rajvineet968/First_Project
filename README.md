@@ -5,4 +5,4 @@ This is my first project towards web development
 Shradha Khapra
 
 # Student
-Vineet Raj(Vinu)
+Vineet Raj
